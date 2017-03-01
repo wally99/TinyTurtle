@@ -1,0 +1,1 @@
+tinyTurtle.apply(window); 
