@@ -7,7 +7,8 @@ function TinyTurtle(canvas) {
   canvas = canvas || document.querySelector('canvas');
 
   var self = this;
-  var rotation = 90;
+  var rotation =
+  90;
   var position = {
     // See http://diveintohtml5.info/canvas.html#pixel-madness for
     // details on why we're offsetting by 0.5.
